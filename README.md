@@ -127,7 +127,3 @@ Last 30 days launches: http://celestrak.com/NORAD/elements/tle-new.txt
 Space Stations: http://celestrak.com/NORAD/elements/stations.txt
 
 Starlink: http://celestrak.com/NORAD/elements/starlink.txt
-
-### SUPPORT
-Questions and bugs can be posted on the project's [github page](https://github.com/nathanaday/SatellitePrediction) or 
-emailed to nraday1221@gmail.com
